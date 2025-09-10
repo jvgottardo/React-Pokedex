@@ -25,5 +25,8 @@ Uma aplicação de estudo em **React + TypeScript** que consome a **PokéAPI**, 
 - **Shadcn UI** – Componentes prontos e estilizados  
 - **React Router DOM** – Navegação SPA  
 - **React Query (@tanstack/react-query)** – Gerenciamento de fetch, cache e loading  
-- **Axios** – Cliente HTTP para consumir PokéAPI  
-
+- **Axios** – Cliente HTTP para consumir PokéAPI
+- 
+```bash
+git clone https://github.com/SEU-USER/pokedex-react.git
+cd pokedex-react
