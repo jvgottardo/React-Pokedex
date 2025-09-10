@@ -31,8 +31,12 @@ Uma aplicação de estudo em **React + TypeScript** que consome a **PokéAPI**, 
 ```bash
 git clone https://github.com/SEU-USER/pokedex-react.git
 cd pokedex-react
-Instale as dependências:
+```
+## Instale as dependências:
+```bash
 npm install
-Rode a aplicação:
+```
+## Rode a aplicação:
+```bash
 npm run dev
 
