@@ -26,7 +26,13 @@ Uma aplicação de estudo em **React + TypeScript** que consome a **PokéAPI**, 
 - **React Router DOM** – Navegação SPA  
 - **React Query (@tanstack/react-query)** – Gerenciamento de fetch, cache e loading  
 - **Axios** – Cliente HTTP para consumir PokéAPI
-- 
+
+## 🚀 Como rodar localmente
 ```bash
 git clone https://github.com/SEU-USER/pokedex-react.git
 cd pokedex-react
+Instale as dependências:
+npm install
+Rode a aplicação:
+npm run dev
+
