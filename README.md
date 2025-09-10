@@ -12,8 +12,6 @@ Uma aplicação de estudo em **React + TypeScript** que consome a **PokéAPI**, 
 ---
 
 ## 🌟 Demo
-
-![Pokédex Preview](./preview.png)  
 <img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/7c4281b0-1e01-46d4-b1bd-1b084a19e67b" />
 
 
